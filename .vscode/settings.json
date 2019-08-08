@@ -1,0 +1,10 @@
+{
+    "atlascode.jira.workingSite": {
+        "baseUrlSuffix": "atlassian.net"
+    },
+    "atlascode.jira.workingProject": {
+        "id": "12223",
+        "name": "Dauntless DevOps Devils",
+        "key": "DDD"
+    }
+}
