@@ -13,3 +13,6 @@
 
 # Prevent istio distribution
 istio-*/
+
+# Remove studio related files
+.vscode/
